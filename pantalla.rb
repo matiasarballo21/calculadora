@@ -1,0 +1,3 @@
+class pantalla
+	
+end
