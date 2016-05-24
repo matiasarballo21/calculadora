@@ -1,3 +1,0 @@
-class divicion
-	
-end

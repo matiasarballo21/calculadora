@@ -1,3 +1,0 @@
-class RaisCuadrada
-	
-end

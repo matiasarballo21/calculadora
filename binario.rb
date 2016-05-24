@@ -1,3 +1,0 @@
-class binario
-	
-end

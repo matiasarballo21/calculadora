@@ -1,3 +1,2 @@
-class pantalla
-	
+class Pantalla
 end
